@@ -16,9 +16,10 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/raisezhang/react-drag-listview#readme",
-  "main": "./lib/index",
+  "main": "./src/index",
   "module": "./es/index",
   "files": [
+    "src",
     "assets/*.css",
     "dist",
     "es",
